@@ -1,0 +1,22 @@
+﻿Series Name,Topic
+Adjusted net national income per capita (current US$),Income
+Poverty headcount ratio at societal poverty line (% of population),Income
+"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",Income
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Environment
+Renewable energy consumption (% of total final energy consumption),Environment
+Terrestrial and marine protected areas (% of total territorial area),Environment
+"Intentional homicides (per 100,000 people)",Safety
+Political Stability and Absence of Violence/Terrorism: Estimate,Safety
+Rule of Law: Estimate,Safety
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Education
+"Government expenditure on education, total (% of GDP)",Education
+Unemployment with advanced education (% of total labor force with advanced education),Education
+"Unemployment, total (% of total labor force) (national estimate)",Employment
+"Labor force participation rate, total (% of total population ages 15+) (national estimate)",Employment
+"Employment to population ratio, 15+, total (%) (national estimate)",Employment
+"Life expectancy at birth, total (years)",Health
+"Mortality rate, adult, female (per 1,000 female adults)",Health
+"Current health expenditure per capita, PPP (current international $)",Health
+Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),Infrastructure
+Fixed broadband subscriptions (per 100 people),Infrastructure
+Access to electricity (% of population),Infrastructure
