@@ -1,3 +1,13 @@
+"""
+Global Relocation Dashboard
+Developed by: Luke Tam, Manuela Fernandes Maldonado, Karen Alderete Romo
+Live version: https://relocation.streamlit.app/
+This interactive dashboard helps users compare and evaluate countries in order to make informed relocation decisions.
+Data is sourced from the World Bank and from United Nations. Charts and visualizations are built using Streamlit and Plotly.
+The dashboard offers three analysis levels: Country, Metric, and Topic.
+Users can explore indicators across seven major topics: Education, Employment, Environment, Health, Income, Infrastructure, and Safety.
+"""
+
 import numpy as np
 import pandas as pd
 import plotly.express as px
